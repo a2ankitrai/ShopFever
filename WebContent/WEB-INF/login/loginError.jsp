@@ -20,7 +20,7 @@
 			<td colspan="2"><a href="/ShopFever"><i>Login Again</i></a></td>
 	</tr>	
  	</table>
-bang bang 34
+bang bang 23!!
 	 
    <!-- footer : starts -->
    <jsp:include page="../common/footer.jsp" />
